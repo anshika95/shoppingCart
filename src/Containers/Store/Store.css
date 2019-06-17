@@ -1,0 +1,44 @@
+.StoreCategories{
+    display:inline-block;
+    margin:10px;
+    border:1px solid #7FFFD4;
+    border-radius: 5px;
+    cursor:pointer;
+  }
+
+  /* .Store{
+    display:block;
+    background-color: #3399CC;
+    height:50px;
+    border: 1px solid black;
+    border-radius: 5px;
+  } */
+
+  .navBar{
+    overflow: hidden;
+    top: 0;
+    width:inherit;
+    border:1px solid black;
+    border-radius: 5px;
+    margin: 2px;
+  }
+  
+  .navBar a{
+    float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+  }
+
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+
+  .content{
+    margin-top: 50px;
+  }
